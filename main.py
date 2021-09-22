@@ -203,7 +203,7 @@ plt.title('Most Watched Actors',fontsize=16 )
 plt.show()
 
 # most watched genres
-genre = (",".join(df["Genre"]).split(','))
+genre = (", ".join(df["Genre"]).split(', '))
 gr = Counter(genre)
 y = [count for tag, count in gr.most_common(10)]
 x = [tag for tag, count in gr.most_common(10)]
