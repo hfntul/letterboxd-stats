@@ -114,7 +114,6 @@ df['Lang'] = df['Lang'].apply(lambda x: languages.get(alpha2=x).name)           
 ###### OPTION ######
 
 # if you want, you can check columns that might still have several empty values and change it manually per row
-# you might found 
 # convert empty values to NaN values
 df = df.replace(r'^\s*$', np.NaN, regex=True)
 
