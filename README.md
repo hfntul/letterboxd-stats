@@ -5,18 +5,6 @@ Your Letterboxd is not pro or patron account? Me too. But here we go
 - Request API key to TMDb. I use their API because Letterboxd uses it too although it's not endorsed or certified by them. Also Letterboxd API is hard to be requested, it doesn't have much documentation and there's no wrapper too
 - Install [tmdbsimple](https://github.com/celiao/tmdbsimple) as the API wrapper
 
-An example of the result using my Letterboxd
-
-![Screenshot from 2021-09-22 17-02-53](https://user-images.githubusercontent.com/60166588/134324227-66d14ab2-32bf-4b7d-aacb-f6389f4f0d36.png)
-
-I always want to see this
-
-![Untitled document (1)_page-0003](https://user-images.githubusercontent.com/60166588/134343253-a5e3c650-4eb9-45dc-a004-7c6b5ce797f5.jpg)
-
-Also this 
-
-![hh_page-0001](https://user-images.githubusercontent.com/60166588/134348393-b01a7b7d-1294-4227-a86d-67cfbb7b5c5e.jpg)
-
 ### Note
 - Rewatch not included
 - The stat is only for films. Tv shows are gonna be removed in the process
